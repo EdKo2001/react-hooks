@@ -1,4 +1,5 @@
 
+
 ## Stack
 
 - React
@@ -7,6 +8,14 @@
 ## Mission
 
 Implemented and upgraded some useful hooks for everyday use for react developers.
+
+List of hooks:
+
+ - useDebounce
+ - useFirstRender
+ - useMediaQuery
+ - useOutsideAlerter
+ - useWindowSize
 
   
 
